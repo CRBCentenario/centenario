@@ -30,6 +30,13 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph3 : "loading..."}</p>
             </div>
           </div>
+           <a
+                  href="https://drive.google.com/file/d/1a_bTzofwiEQeVHAOoBdkZ4IjkNsBrPea/view?usp=share_link"
+                  target="_blank" 
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Conoce nuestro Boletín #1
+                </a>{" "}
         </div>
       </div>
     </div>
