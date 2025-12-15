@@ -1,0 +1,251 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "El Club Rotario Bogotá Centenario es un club de servicio perteneciente a Rotary International, conformado por líderes profesionales, empresariales y comunitarios comprometidos con la construcción de paz, la promoción de la salud y el bienestar, y el servicio humanitario. Somos parte del Distrito 4281 en Colombia.",
+    "paragraph1":"Creemos en el poder de la acción colectiva: impulsamos proyectos que transforman vidas y fortalecen comunidades, especialmente en áreas como salud, educación, cultura, emprendimiento y construcción de paz, siempre con un enfoque ético, solidario e inclusivo.",
+    "paragraph2":"Servir a la comunidad con responsabilidad social y enfoque humanitario, promoviendo la paz, la salud, el liderazgo y el desarrollo sostenible mediante proyectos que generen un impacto real en las personas y en su calidad de vida.",
+    "paragraph3":"Ser un club rotario reconocido por liderar iniciativas que fortalezcan la paz, la salud comunitaria y el bienestar social en Bogotá y en Colombia, estableciendo alianzas estratégicas con clubes y organizaciones alrededor del mundo para impulsar soluciones innovadoras y sostenibles con impacto local y alcance global.",
+    "Why": [
+      "Equipos de alta calidad",
+      "Pasión por lo que hacemos",
+      "Variedad de planes",
+      "Compromiso"
+    ],
+    "Why2": [
+      "Licores a excelentes precios",
+      "Profesionalismo",
+      "Puntualidad"
+    ]
+  },
+  "Liquors": {
+    "paragraph": "Creemos que no hay nada mejor que celebarar con nuestros amigos y familiares al ritmo de buena música con una selección especial de licores para acompañar tus eventos.",
+    "Why": [
+      "Gran varidad de licores, cervezas y aperitivos",
+      "Precios súper competitivos",
+      "Asesoría Personalizada",
+      "Asesoría en Cocteleria"
+    ],
+    "Why2": [
+      "Contamos con las mejores marcas de licores",
+      "Catálogo de precios actualizados",
+      "Envíos a domicilio en Bogotá",
+      "Música y licores en un solo lugar"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Visita del gobernador 2025",
+      "largeImage": "img/portfolio/01Fondo.jpg",
+      "smallImage": "img/portfolio/01Fondo.jpg"
+    },
+    {
+      "title": "Visita del Club Rotario Panama",
+      "largeImage": "img/portfolio/02Fondo.jpg",
+      "smallImage": "img/portfolio/02Fondo.jpg"
+    },
+    {
+      "title": "Visita del gobernador 2025",
+      "largeImage": "img/portfolio/01Fondo.jpg",
+      "smallImage": "img/portfolio/01Fondo.jpg"
+    },
+    {
+      "title": "Cata de Vinos",
+      "largeImage": "img/portfolio/07cena.jpg",
+      "smallImage": "img/portfolio/07cena.jpg"
+    },
+    {
+      "title": "Reuniones del club",
+      "largeImage": "img/portfolio/03Fondo2.jpg",
+      "smallImage": "img/portfolio/03Fondo2.jpg"
+    },
+    {
+      "title": "Cena ",
+      "largeImage": "img/portfolio/cena1.jpg",
+      "smallImage": "img/portfolio/cena1.jpg"
+    },
+    {
+      "title": "Cena Hogareña",
+      "largeImage": "img/portfolio/04Fondo.jpg",
+      "smallImage": "img/portfolio/04Fondo.jpg"
+    },
+    {
+      "title": "Cena Hogareña",
+      "largeImage": "img/portfolio/05Fondo.jpg",
+      "smallImage": "img/portfolio/05Fondo.jpg"
+    },{
+      "title": "Cena Fin de año",
+      "largeImage": "img/portfolio/foto3.jpg",
+      "smallImage": "img/portfolio/foto3.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-volume-up",
+      "name": "Dj, Sonido y Luces",
+      "text": "Equipos de sonido y luces para tu fiesta o evento y el servicio de Dj durante el evento. Cabinas de sonido de 1000 watts, consola de sonido, luces robóticas."
+    },
+    {
+      "icon": "fa fa-music",
+      "name": "Guitarrista Solista",
+      "text": "Amenizamos tus reuniones o eventos al mejor son de una guitarra acústica con amplificación."
+    },
+    {
+      "icon": "fa fa-headphones",
+      "name": "Amplificamos sonido para grupos musicales",
+      "text": "Contamos con los mejores equipos para presentaciones de pequeña y mediana escala para bandas musicales de hasta 22 instrumentos."
+    },
+    {
+      "icon": "fa fa-glass",
+      "name": "Licor para tus eventos",
+      "text": "Cotiza con nosotros el licor para tu evento, manejamos precios competitivos, combos y promociones."
+    },
+    {
+      "icon": "fa fa-microphone",
+      "name": "Karaoke en Bogotá y alrededores",
+      "text": "Servicio y equipos para Karaoke, cabinas de sonido, micrófono, pc y pantalla de proyección"
+    },
+    {
+      "icon": "fa fa-music",
+      "name": "Guitarra y Voz",
+      "text": "Contamos con músicos profesionales para cantar y tocar en tus eventos familiares"
+    },
+    {
+      "icon": "fa fa-video-camera",
+      "name": "Sonido y proyección para eventos sociales y empresariales",
+      "text": "Contamos con los mejores equipos para presentaciones y reuniones empresariales, micrófonos, proyección de video y sonido."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Manu.jpeg",
+      "name": "Manuela Cordoba",
+      "job": "Presidente"
+    },
+    {
+      "img": "img/team/Gustavo.jpg",
+      "name": "Gustavo Enrriquez",
+      "job": "Secretario"
+    }, 
+    {
+      "img": "img/team/Juan.jpg",
+      "name": "Juan Camilo Valderrama",
+      "job": "Vicepresidente"
+    }, 
+    {
+      "img": "img/team/Diana.jpg",
+      "name": "Diana Gaitán",
+      "job": "Macero - Maestro de ceremonias Rotarias"
+    },
+    {
+      "img": "img/team/Sandra.png",
+      "name": "Sandra Perdomo",
+      "job": "Líder de capacitación y fundación rotaria."
+    },{
+      "img": "img/team/Marcel.jpeg",
+      "name": "Marcel Van Opstal",
+      "job": "Lider imágen pública"
+    },
+    {
+      "img": "img/team/MarthaC.jpg",
+      "name": "Martha Castillo",
+      "job": "Líder de membresía"
+    },
+    {
+      "img": "img/team/Julian.jpg",
+      "name": "Julian Rodríguez",
+      "job": "Lider de proyectos"
+    },
+    {
+      "img": "img/team/Santi.png",
+      "name": "Santiago Gomez",
+      "job": "Lider Juventudes"
+    },
+    {
+      "img": "img/team/Esteban.png",
+      "name": "Esteban Tequia",
+      "job": "Presidente Electo 2026"
+    }
+
+
+  ],
+  "Contact": {
+    "address": "Bogotá, Colombia",
+    "phone": "(+57) 301 2935297 - Diana Gaitán",
+    "instagram":"@crotariocentenario",
+    "email": "clubrotariobogotacentenario@gmail.com",
+    "facebook": "fb.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "img": "img/logos/rotaract.png",
+      "title": "Rotaract",
+      "text": "Los clubes Rotaract reúnen a personas mayores de 18 años para intercambiar ideas en la comunidad, desarrollar habilidades de liderazgo y profesionales, y fomentar la amistad a través del servicio.",
+      "text2": "Rotaract se ha propuesto como misión brindar oportunidades de servicio, aprendizaje, liderazgo y, por ende, crear significado social y facilitar el desarrollo personal, para que jóvenes adultos apasionados puedan ofrecerse como voluntarios, desarrollar sus habilidades de comunicación interpersonal y mejorar sus conocimientos profesionales asumiendo diferentes roles de liderazgo en proyectos de servicio social, eventos de networking y compañerismo para promover el intercambio local e internacional de ideas, valores y perspectivas entre los jóvenes."
+    },
+    {
+      "img": "img/logos/interact.jpg",
+      "title": "Interact",
+      "text": "Los clubes Interact ofrecen a jóvenes de 12 a 18 años la oportunidad de adquirir habilidades de liderazgo y descubrir la fuerza de Dar de Sí antes de Pensar en Sí. Los clubes Interact son auto-gestionados por los jóvenes, quienes trabajan con el apoyo de un club rotario local para realizar acciones de servicio, desde reciclaje y tutorías hasta campañas de salud mental",
+      "text2":"Los clubes Interact llevan a cabo por lo menos dos proyectos al año: uno para beneficiar la escuela o comunidad y otro para fomentar la comprensión internacional. Los interactianos realizan sus actividades y desarrollan habilidades de liderazgo con la mentoría y orientación de los socios del club rotario patrocinador."
+    },
+    {
+      "img": "img/logos/rotex.png",
+      "title": "Rotex",
+      "text": "Rotex es una asociación de exparticipantes del Intercambio de Jóvenes de Rotary (RYE) que colabora con los estudiantes de intercambio actuales, tanto internos como externos, para mejorar su experiencia de intercambio. Rotex actúa como intermediario entre los clubes rotarios y los estudiantes de intercambio, apoyando a los rotarios durante todo el programa RYE, asesorándolos sobre el protocolo adecuado durante el intercambio, organizando viajes y eventos para los estudiantes de intercambio de Rotary, tanto internos como externos, y, en última instancia, representando a los estudiantes de intercambio de RYE en diversas ciudades, distritos y países del mundo rotario. Consideramos a Rotex como un potencial futuro rotario y, por lo tanto, nos esforzamos por desarrollar a la próxima generación de rotarios con experiencia directa en Rotary."
+    },
+    {
+      "img": "img/logos/ryla1.png",
+      "title": "Ryla",
+      "text": "En un esfuerzo por promover la inclusión y la igualdad de oportunidades, el Club Rotario Bogotá Centenario se unió a otros clubes y organizaciones para realizar un hito histórico: el primer RYLA (Rotary Youth Leadership Awards) inclusivo para personas sordas. Este innovador proyecto busca empoderar a jóvenes sordos y promover su liderazgo, brindándoles una oportunidad única para desarrollar sus habilidades y conectarse con otros líderes jóvenes de la región.",
+      "text2": "A través de Rotary en-Señas, hemos creado un programa de desarrollo de liderazgo que se centra en fortalecer las habilidades y competencias de los jóvenes sordos, para que puedan asumir roles de liderazgo y contribuir al desarrollo de su comunidad."
+    },
+    {
+      "img": "img/logos/inter.png",
+      "title": "Intercambios",
+      "text": "El Intercambio de Jóvenes de Rotary inspira a los jóvenes líderes a servir como catalizadores de la paz y la justicia social en sus comunidades locales y en todo el mundo, mucho después de la conclusión de sus intercambios. Este programa es posible gracias a la dedicación, el liderazgo y la pasión de decenas de miles de voluntarios, tanto rotarios como no rotarios, que hacen que este programa único tenga tanto éxito.",
+      "text2":"El programa ofrece a los participantes la oportunidad de aprender un idioma, descubrir otras culturas y convertirse en ciudadanos del mundo. Los clubes rotarios patrocinan Intercambios de Jóvenes para escolares de 15 a 19 años en más de 100 países."
+    },
+    {
+      "img": "img/logos/accion.png",
+      "title": "Grupos de acción Rotaria",
+      "text": "Los Grupos de Acción de Rotary son entidades independientes afiliadas a Rotary, cada una de las cuales se centra en un tema humanitario específico, como el desarrollo económico, la construcción de la paz, la prevención de adicciones, la erradicación de la esclavitud moderna o la sostenibilidad ambiental.",
+      "text2": "Integrados por socios de Rotary y personas ajenas a la organización, los grupos cuentan con la participación de personas de todo el mundo con conocimientos, experiencia o un interés en el tema en cuestión. Los integrantes de los grupos de acción participan en actividades de servicio significativas y utilizan sus conocimientos y redes mundiales para propiciar un cambio sostenible."
+    }
+  ]
+}
