@@ -24,8 +24,8 @@ y otros, para el grupo de música de niños y jóvenes.Igualmente se donaron alg
                   </p>
                   <p>Con recursos donados por Clubes Rotarios de California y de Seattle, se hicieron refacciones y mejoras en las instalaciones de esta fundación, tales como acometida eléctrica, adecuación de salones para computadores, piso sala lectura y sala de música, dotación de cocina y compra de muebles,
 al igual que la adquisición de 40 scomputadores.</p>
- <p>Puedes encontrar más información de la fundación en el siguiente link:</p>
-                  <a href="https://fundacionzua.org/" target="_blank" > Fundación Zua</a>
+ <p>Puedes encontrar más información de la fundación en el siguiente link:
+                  <a href="https://fundacionzua.org/" target="_blank" rel="noreferrer" > Fundación Zua</a></p>
                 </div>
                 
               </div>

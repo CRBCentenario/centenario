@@ -23,8 +23,8 @@ sostenibilidad de este proyectose les dotó de una máquina estampadora de camis
 Igualmente, se hizo donación de una impresora y de materiales para estampación. En el mes de marzo se programó una visita en compañía del Club Rotario Bogotá Occidente y el Club Rotaract Centenario, que
 también participó con la Subvención Distrital, a fin de compartir y ver de primera mano la ejecución de dicha Subvención.
                   </p>
-                  <p>Puedes encontrar más información de la fundación en el siguiente link:</p>
-                  <a href="https://www.anavalentina.org/" target="_blank" > Fundación Ana Valentina</a>
+                  <p>Puedes encontrar más información de la fundación en el siguiente link: 
+                  <a href="https://www.anavalentina.org/" target="_blank" rel="noreferrer"> Fundación Ana Valentina</a></p>
                 </div>
                 
               </div>

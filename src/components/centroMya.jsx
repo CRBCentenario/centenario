@@ -25,6 +25,8 @@ asiste a más de 100 niños, niñas y jóvenes con discapacidades cerebrales de 
 y prepararlos para que puedan acceder a un trabajo que les permita cierta autonomía. En el mes de diciembre los socios se hicieron presentes en la celebración de la Fiesta
 de Navidad con refrigerios y regalos.
                   </p>
+                  <p>Puedes encontrar más información de la fundación en el siguiente link: <a href="https://centromya.ong/" target="_blank" rel="noreferrer" > Centro MYA</a></p>
+                  
                 </div>
               </div>
             </div>
