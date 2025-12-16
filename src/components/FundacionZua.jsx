@@ -33,7 +33,7 @@ al igual que la adquisición de 40 scomputadores.</p>
           </div>
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/zua.jpg" className="img-responsive" alt="" style={{marginLeft:10}}/>{" "}
+            <img src="img/zua.jpg" className="img-responsive" alt="" style={{marginLeft:10, marginTop:30}}/>{" "}
           </div>
         </div>
       </div>

@@ -11,8 +11,9 @@ export const Empoderamiento = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="empoderamiento-text">
-              <h2>Niñas empoderadas para alcanzar sus sueños</h2>
-              <h3>2022-2024 </h3>
+              <h2>Niñas empoderadas para alcanzar sus sueños </h2>
+              <h3>Me transformo para transformar mi mundo</h3>
+              <h3>  2022-2024 </h3>
                 <h3>Area de Interés: Paz y resolución de conflictos </h3>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">

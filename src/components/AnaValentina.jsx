@@ -32,7 +32,7 @@ también participó con la Subvención Distrital, a fin de compartir y ver de pr
           </div>
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/anaV.png" className="img-responsive" alt="" style={{marginLeft:10}}/>{" "}
+            <img src="img/anaV.png" className="img-responsive" alt="" style={{marginLeft:10, marginTop:100}}/>{" "}
           </div>
         </div>
       </div>

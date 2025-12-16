@@ -44,16 +44,16 @@ export const Contact = (props) => {
     <div>
       <div id="contact">
         <div className="container">
-          <div className="col-md-5">
+          <div className="col-md-6">
             <h3>Contáctanos</h3>
             <p style={{marginTop:0}}> 
-              Nos reunimos los miercoles 6:30 pm 
+              Nos reunimos todos los miercoles a las 6:00 pm de manera presencial y virtual, escribenos si te gustaría asistir y conocer mas de nuestro club.
             </p>
-            <div style={{marginLeft:'20%'}}>
+            <div style={{marginLeft:'15%'}}>
             <img src="img/foto3.jpg"  style={{width:400}}className="img-responsive" alt="" />
             </div>
           </div>
-          <div className="col-md-6 col-md-offset-1 contact-info">
+          <div className="col-md-6 contact-info">
             <div className="contact-item">
               <h3>Información de contacto</h3>
             </div>

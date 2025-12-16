@@ -30,14 +30,32 @@ export const About = (props) => {
               <p>{props.data ? props.data.paragraph3 : "loading..."}</p>
             </div>
           </div>
-           <a
+            <div className="col-xs-12 col-md-6">
+            <div className="about-text">
+              <h2>Nuestras reuniones:</h2>
+              <p>Nos reunimos todos los miercoles a las 6:00 pm de manera presencial y virtual, escribenos si te gustaría asistir y conocer mas de nuestro club.</p>
+              <a
+                  href="#contact"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  Contactanos
+                </a>{" "}
+            </div>
+          </div>
+           <div className="col-xs-12 col-md-6">
+            <div className="about-text" style={{marginTop:100}}>
+              <a
                   href="https://drive.google.com/file/d/1a_bTzofwiEQeVHAOoBdkZ4IjkNsBrPea/view?usp=share_link"
+                  rel="noreferrer"
                   target="_blank" 
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Conoce nuestro Boletín #1
                 </a>{" "}
+          </div>
+         </div>
         </div>
+        
       </div>
     </div>
   );
