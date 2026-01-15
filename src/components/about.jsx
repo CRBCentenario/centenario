@@ -33,7 +33,9 @@ export const About = (props) => {
             <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>Nuestras reuniones:</h2>
-              <p>Nos reunimos todos los miercoles a las 6:00 pm de manera presencial y virtual, escribenos si te gustaría asistir y conocer mas de nuestro club.</p>
+              <h3>6:00 pm Colombia - Virtual y presencial</h3>
+              <p>Nos reunimos todos los miercoles a las 6:00 pm de manera virtual y presencial, escribenos si te gustaría asistir y conocer mas de nuestro club.</p>
+              <p>Para nuestros amigos rotarios de otros clubes pueden compesar sus reuniones con nosotros, escríbenos para asistir.</p>
               <a
                   href="#contact"
                   className="btn btn-custom btn-lg page-scroll"
