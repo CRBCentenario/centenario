@@ -14,7 +14,7 @@ export const Empoderamiento = (props) => {
               <h2>Niñas empoderadas para alcanzar sus sueños </h2>
               <h3>Me transformo para transformar mi mundo</h3>
               <h3>  2022-2024 </h3>
-                <h3>Area de Interés: Paz y resolución de conflictos </h3>
+                <h3>Área de Interés: Paz y resolución de conflictos </h3>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">
                   <p>

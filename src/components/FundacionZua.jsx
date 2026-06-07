@@ -10,7 +10,7 @@ export const FundacionZua = (props) => {
             <div className="liquors-text">
               <h2>Fundación Zua</h2>
               <h3>2018-2025 </h3>
-                <h3>Area de Interés: Alfabetización y educación básica</h3>
+                <h3>Área de Interés: Alfabetización y educación básica</h3>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">
                   <p>

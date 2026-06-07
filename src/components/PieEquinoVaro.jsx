@@ -10,7 +10,7 @@ export const PieEquinoVaro = (props) => {
             <div className="liquors-text">
               <h2>Proyecto de Pie equinovaro</h2>
               <h3>2018-2025 </h3>
-                <h3>Area de Interés: Salud Materno Infantil</h3>
+                <h3>Área de Interés: Salud Materno Infantil</h3>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">
                   <p>

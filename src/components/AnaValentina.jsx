@@ -11,7 +11,7 @@ export const AnaValentina = (props) => {
             <div className="liquors-text">
               <h2>Ana Valentina</h2>
               <h3>2023-2025 </h3>
-                <h3>Area de Interés: Desarrollo económico de la comunidad</h3>
+                <h3>Área de Interés: Desarrollo económico de la comunidad</h3>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">
                   <p>

@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run tests",
+			"type": "shell",
+			"command": "CI=true npm test -- --watch=false --runInBand",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify submenu fix",
+			"type": "shell",
+			"command": "CI=true npm test -- --watch=false --runInBand",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

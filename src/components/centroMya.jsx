@@ -13,7 +13,7 @@ export const CentroMya = (props) => {
             <div className="empoderamiento-text">
               <h2>Subvención global MYA </h2>
               <h3>2022-2025 </h3>
-                <h3>Area de Interés: Alfabetización y educación básica</h3>
+                <h3>Área de Interés: Alfabetización y educación básica</h3>
                 <p>Desarollo de ambientes de formación tecnológica para personas en condición de discapacidad</p>
               <div className="text-justify">
                 <div className="col-lg-12 col-sm-12 col-xs-12">

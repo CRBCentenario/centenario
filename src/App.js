@@ -13,6 +13,7 @@ import {AnaValentina} from "./components/AnaValentina"
 import {CentroMya} from "./components/centroMya"
 import { Team } from "./components/Team"
 import { Contact } from "./components/contact"
+import { MujerCafeteras } from "./components/mujereCafeteras"
 import JsonData from "./data/data.json"
 import SmoothScroll from "smooth-scroll"
 //import logo from './logo.svg'
@@ -25,13 +26,25 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speedAsDuration: true,
 })
 function App() {
-   const [landingPageData, setLandingPageData] = useState({})
+  const [landingPageData, setLandingPageData] = useState({})
+  const [currentPage, setCurrentPage] = useState("home")
+
   useEffect(() => {
     setLandingPageData(JsonData)
   }, [])
+
+  if (currentPage === "nuevo-tab") {
+    return (
+      <div className="App">
+        <Navigation onNavigate={setCurrentPage} currentPage={currentPage} />
+        <MujerCafeteras />
+      </div>
+    )
+  }
+
   return (
     <div className="App">
-      <Navigation />
+      <Navigation onNavigate={setCurrentPage} currentPage={currentPage} />
       <Header data={landingPageData.Header} />
       <Inicio/>
       <About data={landingPageData.About} />
@@ -49,7 +62,7 @@ function App() {
       {/*<<Liquors data={landingPageData.Liquors} />
       Features data={landingPageData.Features} />
       <Testimonials data={landingPageData.Testimonials} />*/}
-      
+
       <Contact data={landingPageData.Contact} />
     </div>
   )
